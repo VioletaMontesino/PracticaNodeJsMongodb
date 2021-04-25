@@ -4,7 +4,7 @@
 
 ## Notas
 ### Variables de entorno
-Las variables de entorno han sido subidas al repositorio (".env") al ser un proyecto en local.
+Las variables de entorno han sido subidas al repositorio, en un archivo ".env", al ser un proyecto local.
 
 ### QueryString
 Se ha usado una funcionalidad con QueryString para hacer un conteo de los usuarios que hay en la base de datos Mongo.
